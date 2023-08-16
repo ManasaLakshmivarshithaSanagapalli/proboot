@@ -1,0 +1,323 @@
+*{
+	margin:0px;
+	padding:0px;
+	border-size:border-box;
+}
+.a{
+	height:5200px;
+	width:1520px;
+	background-color:grey;
+}
+.b{
+	height:400px;
+	width:100%;
+	background-color:pink;
+	background-image:url('images/r.jpg');
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:10px;
+}
+.c{
+	height:300px;
+	width:300px;
+	margin-left:600px;
+	margin-top:20px;
+	outline:10px solid white;
+}
+.d{
+	font-size:40px;
+	color:white;
+	margin-top:5px;
+	margin-left:10px;
+}
+.e{
+	font-size:13px;
+	color:white;
+	text-align:justify;
+	margin-left:5px;
+	margin-right:5px;
+	margin-top:8px;
+}
+.f{
+	height:400px;
+	width:100%;
+	background-color:deeppink;
+	padding:10px;
+}
+.finner{
+	height:380px;
+	width: 40%;
+	margin-left:100px;
+	float:left;
+}
+.ha{
+	color:yellow;
+	font-size:30px;
+	display:inline;
+	margin-left:0px;
+}
+.g{
+	color:white;
+	font-size:30px;
+	display:inline;
+}
+.r{
+	color:white;
+	font-size:15px;
+	margin-top:10px;
+}
+.fouter{
+	height:380px;
+	width: 40%;
+	margin-left:40px;
+	float:left;
+}
+.y{
+	height:400px;
+	width:100%;
+	background-color:darkblue;
+}
+.yinner{
+	height:200px;
+	width:500px;
+	margin-top:30px;
+	margin-left:200px;
+	float:left;
+}
+.youter{
+	height:320px;
+	width:300px;
+	float:left;
+	margin-left:300px;
+	margin-top:30px;
+	outline: 10px solid white;
+}
+.v{
+	color:yellow;
+	font-size:30px;
+	margin:10px;
+	margin-left:110px;
+	margin-top:15px
+}
+.ma{
+	color:white;
+	margin-left:110px;
+
+}
+.da{
+
+	color:white;
+	margin-left:60px;
+	margin-top:5px;
+	}
+.t{
+	height:900px;
+	width:100%;
+	background-color:deeppink;
+}
+.tinner{
+	height:150px;
+	width:150px;
+	float:left;
+	background-color:white;
+	margin-left:550px;
+	margin-top:20px;
+}
+.tr{
+	height:150px;
+	width:150px;
+	float:left;
+	background-color:white;
+	margin-left:20px;
+	margin-top:20px;
+}
+.tp{
+	height:100px;
+	width:450px;
+	float:left;
+	background-color:darkpink;
+	margin-left:550px;
+	margin-top:20px;
+}
+.p{
+	height:400px;
+	width:100%;
+	background-color:royalblue;
+	padding:5px;
+}
+.pinner{
+	height:320px;
+	width:40%;
+	margin-top:10px;
+	margin-left:90px;
+	float:left;
+}
+.pouter{
+	height:320px;
+	width:40%;
+	float:left;
+	margin-top:10px;
+	margin-left:50px;
+}
+.ta{
+	height:30px;
+	color:yellow;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.ti{
+	height:10px;
+	background-color:white;
+	width:400px;
+}
+.u{
+	height:500px;
+	width:100%;
+	background-color:blue;
+	background-image:url('images/rainbow.jpg');
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:10px;
+}
+.uinner{
+	height:250px;
+	width:700px;
+	margin-left:400px;
+	margin-top:70px;
+	outline:10px solid white;
+}
+button{
+	border-radius:50px;
+	background-color:yellow;
+	font-size:30px;
+	margin-left:220px;
+	margin-top:30px;
+	color:red;
+	padding:3px;
+}
+.z{
+	height:500px;
+	width:100%;
+	background-color:royalblue;
+}
+.zinner{
+	height:300px;
+	width:40%;
+	float:left;
+	margin-top:80px;
+	margin-left:70px;
+}
+.zouter{
+	height:400px;
+	width:30%;
+	background-color:white;
+	float:left;
+	margin-top:40px;
+	margin-left:150px;
+}
+.zouter1{
+	height:200px;
+	width:100%;
+	background-color:yellow;
+}
+.q{
+	color:blue;
+	text-align:center;
+	margin-bottom:5px;
+}
+.py{
+	margin-left:170px;
+	font-size:20px;
+	margin-top:10px;
+	margin-bottom:5px;
+}
+.pr{
+	height:30px;
+	width:100px;
+	background-color:blue;
+	margin-left:150px;
+	color:white;
+	padding:5px;
+	font-size:12px;
+}
+.me{
+	height:400px;
+	width:100%;
+	background-color:yellow;
+	background-image:url('images/rs.jpg');
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:10px;
+}
+.man{
+	height:330px;
+	width:20%;
+	margin-left:100px;
+	margin-top:30px;
+	background-color:white;
+}
+.come{
+	height:520px;
+	width:100%;
+	background-color:blue;
+}
+.go{
+	height:280px;
+	width:70%;
+	margin:50px;
+	outline:10px solid white;
+	float:left;
+	margin-left:220px;
+}
+.coms{
+	height:600px;
+	width:100%;
+	background-color:hotpink;
+}
+.ra{
+	color:white;
+	margin-left:650px;
+}
+.dan{
+	color:white;
+	margin-left:500px;
+}
+.rav{
+	color:white;
+	margin-left:650px;
+}
+.un{
+	height:50px;
+	width:20px;
+	display:inline;
+	background-color:yellow;
+	color:blue;
+	margin-top:20px;
+	margin-left:500px;
+}
+.und{
+	height:50px;
+	width:20px;
+	display:inline;
+	background-color:yellow;
+	color:blue;
+}
+.here{
+	height:20px;
+	width:20px;
+	background-color:yellow;
+	color:blue;
+	margin-left:500px;
+	margin-bottom:300px;
+}
+.hads{
+	eight:20px;
+	width:20px;
+	background-color:red;
+	color:blue;
+	margin-left:600px;
+	margin-bottom:300px;
+}

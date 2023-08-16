@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+      <h1>Javascript introduction</h1>
+      <script>
+      	/*  var a = 10;
+      	   var b = 20;
+      	   var c = 30;
+      	   console.log(b);
+      	   alert(c);
+      	   document.write("Welcome to java world<br>");
+      	   document.write("The value of a is",a+"<br>");
+      	   var name = 'varshitha';
+      	   document.write(name.length+"</br>");
+      	   name += " manasa";
+      	   document.write(name+"<br>");
+      	   document.write(name.length+"<br>");
+      	   var names = 'varshi'
+      	   document.write(names+" ");
+      	   names='ramya'
+      	   document.write(names+",");
+      	   names='nikku'
+      	   document.write(names+"<br>");
+      	   var e;
+      	   document.write(e+"<br>");
+      	   h=10.2;
+      	   document.write(parseInt(h)+"<br>");
+      	   document.write((h)+"<br>");
+      	   var g = 'true';
+      	   document.write(typeof(g)+"<br>");
+      	   var w = true;
+      	   document.write(typeof(w)+"<br>");
+      	   var arr=['sindhu','swapna','satya',1,true];
+      	   document.write(typeof(arr)+"<br>")
+      	   console.log(arr);
+      	   document.write(arr+"<br>")
+      	   document.write(arr[2]+"<br>");
+      	   r=10;
+      	   document.write(parseFloat(r)+"<br>");
+      	   document.write((r)+"<br>");
+      	   var ex=['ram','lakshmi','hi','hello'];
+      	   document.write(ex[1]);
+      	   document.write("  "+ex[2]+"<br>"); */
+      	var obj= [{
+      		'name' : 'varshi',
+      		'rollno' : '21A',
+      		'college' : 'Aec'
+      	},
+      	{
+      		'name' : 'pavan',
+      		'rollno' : '21',
+      		'college' : 'Aeco'
+      	},
+      	{
+      		'name' : 'pavani',
+      		'rollno' : '2',
+      		'college' : 'Aecod'
+      	},
+      	{
+      		'name' : 'pavanis',
+      		'rollno' : '2345',
+      		'college' : 'Aecodh'
+      	}]
+      	/*console.log(obj.name);
+      	console.log(obj);
+      	document.write(obj);  this is for the single object*/
+         console.log(obj[0].name);
+         console.log(obj[1].rollno);
+         console.log(obj[0]);
+         console.log(obj[1]);
+         for(var i=0;i<obj.length;i++)
+         {
+         	console.log(obj[i].name,obj[i].rollno,obj[i].college);
+         	console.log(obj[i]);
+         }
+         var apps ={
+         	'name' : 'varshi',
+      		'rollno' : '21A',
+      		'college' : 'Aec'
+         }
+         for(var j=0;j<obj.length;j++)
+         {
+         //var out= "";
+         //var outs="";//
+         for(var i in obj[j])  //this is the for in loop
+         {
+         	//out+= i+ " ";
+         	//outs+=apps[i]+" ";//
+            console.log(i);
+            console.log(obj[j][i]);
+         }
+         //console.log(out);
+         //console.log(outs);//
+      }
+
+      var grade='A';
+
+var result;
+
+switch(grade)
+
+{
+
+case 'A':
+
+result+="10";
+
+case 'B':
+
+result+=" 9";
+
+case 'C':
+
+result+=" 8";
+
+default:
+
+result+=" 0";
+
+}
+
+document.write(result);
+      </script>
+</body>
+<script type="text/javascript" src="external.js"></script>
+</html>

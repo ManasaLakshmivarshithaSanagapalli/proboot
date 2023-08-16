@@ -1,0 +1,54 @@
+.external
+{
+	background-color:violet;
+	color:yellow;
+}
+
+#why
+{
+	font-size:60px;
+	border :1px black solid;
+	color:blue;
+}
+h5
+{
+	color:pink;
+	font-size: 60px;
+	font-variant: small-caps;
+}
+*
+{
+	font-size:100px;
+}
+input[type]
+{
+	color:yellow;
+}
+input[type="number"]
+{
+	color:red;
+}
+a[href]
+{
+	color:green;
+	font-size: 60px;
+}
+a:hover 
+{
+	color:red;
+}
+a:visited  
+{
+	color:yellow;
+}
+a:link  
+{
+	color:grey;
+}
+a:active
+{
+	color:purple;
+}
+div:link{
+	background-color:red;
+}

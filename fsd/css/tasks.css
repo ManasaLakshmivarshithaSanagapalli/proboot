@@ -1,0 +1,151 @@
+*
+{
+	margin: 0px;
+	padding:0px;
+	box-sizing: border-box;
+}
+.w{
+	height:700px;
+	width: 1100px;
+	background-color:white;
+	margin-left:220px;
+}
+
+.a{
+    height:50px;
+    width:1100px;
+    background-color:ghostwhite;
+    margin:10px 0px;
+    padding:10px;
+}
+.b{
+	height:30px;
+	width: 60px;
+	color: white;
+	background-color:lightgreen;
+	padding: 4px;
+	display: inline;
+	float: left;
+	margin: 1px;
+	margin-left:400px;
+	margin-right: 5px;
+}
+.c{
+	height:30px;
+	width: 60px;
+	color: white;
+	background-color:lightblue;
+	margin:1px;
+	margin-right: 5px;
+	padding: 4px;
+	float:left;
+	text-align: center;
+
+}
+.d{
+	height:30px;
+	width: 75px;
+	color: white;
+	background-color:lightblue;
+	margin:1px;
+	padding: 4px;
+	float:left;
+	text-align: center;
+	margin-right: 5px;
+
+}
+.e{
+	height:30px;
+	width: 80px;
+	color: white;
+	background-color:red;
+	margin:1px;
+	padding: 5px;
+	float:left;
+	text-align: center;
+}
+
+.f{
+	margin-top:30px;
+	margin-left: 40px;
+	margin-bottom: 70px;
+	margin-right: 10px;
+	float:left;
+	height:520px;
+	width: 350px;
+	background-color: ghostwhite;
+	padding:20px;
+}
+i{
+	font-size:100px;
+	color: lightblue;
+}
+p{
+	margin-bottom:10px;
+	color: gray;
+}
+.g{
+	height: 30px;
+	width: 60px;
+	background-color: blue;
+	margin-left: 80px;
+	padding: 5px;
+	color: white;
+	float: left;
+	display: inline;
+	margin-right: 7px;
+}
+.h{
+	height: 30px;
+	width: 80px;
+	color: blue;
+	padding: 5px;
+	float: left;
+	border: 1px solid blue;
+	text-align: center;
+}
+h3{
+	display:inline;
+}
+.l{
+	color: grey;
+	display:inline;
+	font-size: 20px;
+}
+.m{
+	margin-top:30px;
+	margin-left: 40px;
+	margin-bottom: 70px;
+	margin-right: 10px;
+	height:280px;
+	width: 650px;
+	float: left;
+	background-color: ghostwhite;
+}
+h4{
+	margin:15px;
+	font-size:20px;
+}
+.i{
+	height:25px;
+	width:250px;
+	background-color: white;
+	border:1px solid  black;
+	margin: 15px;
+	padding:5px;
+}
+
+.q{
+	margin-top:330px;
+	height:340px;
+	width:650px;
+	background-color:ghostwhite;
+	margin-left:440px;
+}
+.j{
+	height:4px;
+	width:580px;
+	margin-left:10px;
+	margin-right:5px;
+	border:1px solid black;
+}
